@@ -1,0 +1,29 @@
+h3 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.subheader {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#header {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(./images/pattern.jpeg);
+}
